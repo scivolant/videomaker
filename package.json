@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/scivolant/videomaker/issues"
   },
-  "homepage": "https://github.com/scivolant/videomaker#readme"
+  "homepage": "https://github.com/scivolant/videomaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
